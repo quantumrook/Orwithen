@@ -1,0 +1,1 @@
+https://github.com/javalent/obsidian-leaflet?tab=readme-ov-file

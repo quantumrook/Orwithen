@@ -1,0 +1,1 @@
+Female elf and [[Delver's of Zaban|Librarian]] of the [[Readings of Zaban]] located in [[Cadun]].

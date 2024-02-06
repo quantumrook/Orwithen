@@ -1,0 +1,8 @@
+- [ ] Look into using the [[Maps in Obsidian|plugin]] that lets you embed maps into obsidian
+- [x] Create [[Cadun]]
+	- [x] Start Quinn and Leshanna there
+	- [x] Send them to Chuddi Forest to search for an old monastery
+		- [x] Create quest
+- [x] Create the [[Delver's of Zaban]]
+- [ ] Create the [[Hands of Artin]]
+- [ ] Create Tardy ?

@@ -1,0 +1,2 @@
+An old male human sage that specializes in the study of legendary heroes and battles. 
+He resides in the [[Cadun#Crystalarch Ward]] in a two-storey building of timber and brick walls, which serves as his  home, personal library, and simple storefront for ritual components.
