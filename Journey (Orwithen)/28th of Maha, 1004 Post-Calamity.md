@@ -43,7 +43,7 @@ The two make quick progress during the first three hours of travel along the nor
 
 As they crest a small hill, a large lake comes into view with the road winding around it to the east. Looking at the sun, the two companions figure they can make it halfway around before setting up camp for the night when the stumble upon some pottery shards. Seeing only a fine layer of dirt upon the shards, they conclude this must have occurred fairly recently, but its too far from the forest for the goblins to risk. Uneasy, the rogue draws his shuriken and the invoker mentally prepares an invocation.
 
-Pushing on much slower now, the two scan the relatively flat land as they proceed for the next two hours without interruption. Relaxing a bit and assuming it was most likely the cause of poorly packed goods being josteled free, the two resume their original pace and just manage to reach the eastern edge of the lake as the sun begins to set. Heading some distance off the road, this time they do choose to move stealthy, with the rogue covering their tracks, as they search for a place to set up camp.
+Pushing on much slower now, the two scan the relatively flat land as they proceed for the next two hours without interruption. Relaxing a bit and assuming it was most likely the cause of poorly packed goods being jostled free, the two resume their original pace and just manage to reach the eastern edge of the lake as the sun begins to set. Heading some distance off the road, this time they do choose to move stealthy, with the rogue covering their tracks, as they search for a place to set up camp.
 
 **Group Stealth Check:** : One pass, one fail.
 
@@ -65,6 +65,8 @@ As the two reach their campsite, an arrow whizzes past. "Bandits!" Quinn shouts 
 		Benne used: 21 vs 14 Fort - Hit A2. 7 lightning damage
 	Rabble 3 advances on Quinn and attacks: 16+2+6 vs 19 AC - Hit. 4 damage.
 	
+Quinn, again, throwing out his blade deftly, he hits one of the archers, as an arrow sails by his own face, drawing blood. The rest of the rabble charge forward, splitting into two groups, trying to club the two adventurers into submission. Quinn side steps one blow before awkwardly parrying the second and almost loses his footing. Leshanna dodges the arrow fired at her as she ducks under a swing and rolls out of the way of a second. Shifting back a few paces, she summons forth lightning to her staff and shoots out three bolts. One bolt flies wide of its intended target, while the other two connect with the archers.
+
 #### Turn 2
 
 	Quinn tumbles forward and uses Blinding Barrage:
@@ -82,14 +84,17 @@ As the two reach their campsite, an arrow whizzes past. "Bandits!" Quinn shouts 
 	Leshanna shifts back and casts Avenging Light on A1:
 		11+6 vs 14 Fort - Hit. 9 damage.
 
+Quinn, nearly surrounded, tumbles forward and kicks up dirt, blinding the bandits around him. He quickly swipes with his sword, cutting into all of them. The nearby archer screams in pain and falls back to the ground while the three rabble collapse to the ground lifelessly. One of the rabble rushes forward, swinging at Leshanna, while her armor still sparks with lightning from her cast and is shocked to death as he hits her. Another arrow shoots past her, wide left this time as the other two remaining rabble charge forward and have their attacks expertly parried and dodged.
+
 #### Turn 3
 
 	Quinn advances on A1 and attacks with Sly Flourish: Crit vs 14 AC - Hit. 22 Damage. A1 dies.
 	R2 Morale Check: 4 vs 14 Will. Fails
 	R6 Morale Check: 6 vs 14 Will. Fails.
-	R2 & R6 both surrender. Combat ends.
+	R2 & R6 both surrender. 
+	Combat ends.
 
-The remaining bandits quickly drop their weapons and raise their arms, surrendering. "You okay?" Quinn calls out to Leshanna.
+Quinn, now free to engage the other archer quickly closes in on his unsuspecting opponent, cutting into their back with a sly flourish and they too fall to his blade. The remaining bandits quickly drop their weapons and raise their arms, surrendering. "You okay?" Quinn calls out to Leshanna.
 
 "Yes, and you?"
 
@@ -126,5 +131,7 @@ Quinn looks towards the archer, who spoke earlier, "And if you happen to have a 
 "Given how things went the first time, I'm not too worried about those two... but you do have a point. At least I didn't say your name," Quinn responds as he grabs his pack, "well, now we need to find a new spot.. maybe back on the other side of the hill?"
 
 Leshanna nods as she finishes searching the bandit corpses, shaking 4 bags of coin, "Guess it wasn't the best day for them in multiple ways."
+
+		Gain 340 gp (Parcel 8)
 
 The two cross back over the hill and move some distance towards the road before setting up camp for the night, opting to avoid the attention a fire would bring. Leshanna takes the first watch as Quinn sleeps before waking him for his.
