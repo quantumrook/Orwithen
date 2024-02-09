@@ -1,5 +1,6 @@
 ## Summary
 
+[[Malvan Crowsworn]], with much effort, convinces [[Quinn Harcey]] and [[Leshanna Wynwarin]] to let him join them on their quest. He quickly proves his sincerity by warning them of an impending ambush by bandits and assists the two in dispatching their foes. Concerned by the relatively sudden revenge, Quinn asks Malvan for more detail about the bandit gang and they conclude that they have upset the [[Iron Circle]]. While searching the bodies for two familiar faces, they are ambushed by a gnoll and two heynas. Quinn is knocked unconscious (first PC death save) but is stabilized. The three venture onwards, uneventfully, into the forest and make camp.
 
 ## North of Cadun, Unnamed Lake
 
@@ -28,7 +29,7 @@ Taking a short rest every two hours to drink and catch their breath, they make p
 
 "Hold on, you're the archer from last night!" Quinn exclaims as he draws his blade. "What is it you want?"
 
-"I.. want..." the man holds up a hand to signal to give him a chance to catch his breath. After a few moments, he regains his composure, "I want to join you. I was thinking about last night and went to see Cirog, but figured you're already on a job and the best time to start is now. I've been trying to catch up to you two all morning but this heat is just something else..."
+"I.. want..." the man holds up a hand to signal to give him a chance to catch his breath. After a few moments, he regains his composure, "I want to join you. I was thinking about last night and went to see [[Cirog]], but figured you're already on a job and the best time to start is now. I've been trying to catch up to you two all morning but this heat is just something else..."
 
 Quinn looks at Leshanna and sheaths his blade, speaking in elvish "Great... more complications."
 
@@ -191,7 +192,154 @@ Two hours into the journey, the three stop for another water break under a lone 
 	Malvan advances and attacks A3 with Twin Strike:
 		A3: Hit. Dies.
 		
-With Malvan's two arrows sinking into the final bandit and dropping them dead, the air hot heavy air grew thick for the three companions. 
+With Malvan's two arrows sinking into the final bandit and dropping them dead, . 
 
 	Quickly searching the bodies, the group obtains Parcel 1 and Parcel 5. 1325 Encounter XP. Party levels up to level 6.
+
+Leshanna limps back over the hill towards the tree while Malvan and Quinn search the bodies for anything of interest. On the Bersker's back is a Duelist's lightblade of +2. Malvan finds 550 gp in total. After a few moments, all three group back up at the tree.
+
+"Well, any life-debt you feel like you owed, I think is repaid." Quinn says, taking a big swig of water. Leshanna nods in agreement as she finishes bandaging herself up. Malvan smiles and follows Quinn's lead in taking a big sip of water before taking off his armor. 
+
+"I guess my former crew was bigger than they let on, but kinda makes sense in hindsight. It doesn't change anything as far as I'm concerned, but we may have made some powerful enemies."
+
+"Do you know who they are? like did the crew have a name they went by?"
+
+<div class="oracle">
+**Q:** Does Malvan know the name of the bandits?
+**A:** Yes.
+</div>
+
+"They didn't say it out right, but the outpost had a very prominent iron circle displayed. So, either they are playing a dangerous game, or the Iron Circle is going to be a thorn for a long while."
+
+"That'd explain the magic weaponry and coordination in tactics. More coordinated than your typical roadside highway men."
+
+Leshanna gives Quinn a look, "I'm not going to say it, but we need to get word to Cirog."
+
+"We need to check for your two acquaintances amongst the dead again." Quinn says, looking at Malvan. The three finish recovering from the heat before searching the corpses for familiar faces.
+
+<div class="oracle">
+**Q:** Are the other two bandits present?
+**A:** Nat 1 - Interrupt: Combat Encounter.
+
+**Q:** Is it more bandits?
+**A:** No
+	
+**Q:** Are the other two bandits present?
+**A:** No, and: Equipment, Enter, Erratic. Gnoll Huntmaster and Heynas, start bloodied (due to excessive heat)
+</div>
+
+An arrow thuds into a corpse next to Malvan, breaking the uneasy silence alongside two howls. The three turn towards the noise and see a gnoll with two heynas charging towards them. Dropping their gear, the three ready their weapons.
+
+#### Turn 1
+
+	Gnoll aims at L: Miss.
+	Q advances and aims at H2: Hit. 9 dmg.
+	M fires at Gnoll: Miss.
+	L avenging light on H2: Crit. 18 dmg.
+	H1 advances on Q and Bites: Miss.
+	H2 advances on Q and Bites: Hit. 6 dmg.
+
+#### Turn 2
+
+	Gnoll aims at Q: Hit. 14 dmg.
+	Q attacks at H1: Hit. 11 dmg.
+	M fires at Gnoll:
+		Hit. 7 dmg
+		Miss.
+	L shifts and avenging lights H2: Hit. 9 dmg.
+	Q ripostes H1: hit. 8 dmg.
+	H1 attacks Q: hit. 9 dmg.
+	H2 attacks Q: miss.
+
+#### Turn 3
+
+	Gnoll aims at Q: hit. 14 dmg.
+	Q attacks H1: Hit. 11 dmg.
+	Q gains resist 10.
+	M fires at Gnoll:
+		hit. 7 dmg.
+		miss.
+	L avenging light on H2: hit. dies.
+	Q ripostes H1: hit. dies
+	
+#### Turn 4
+
+	Gnoll aims at Q: hit. 9-10: 0 dmg.
+	Q advances on Gnoll and Setup Strike: hit. 11 dmg.
+	M fires at Gnoll:
+		miss.
+		hit. 7 dmg.
+	L advances and avenging lights Gnoll: hit. 13 dmg.
+
+#### Turn 5
+
+	Gnoll attacks Q: Crit. 11 dmg.
+	Q is down. Pass death save #1.
+	M fires at Gnoll:
+		miss.
+		hit. 7 dmg. Gnoll dies.
+	L heal check on Q: fail (10)
+
+### Turn 6
+
+	Q passes second death save #2.
+	M runs forward.
+	L heal check on Q: pass (16)
+	Q stablizies.
+	Combat ends.
+
+Malvan props Quinn up so that Leshanna can administer a healing potion to Quinn, and he comes to a few moments later. "W-what happened?"
+
+"You tried to die on us." Malvan replies, "Took a good hit from the Gnoll's handaxe."
+
+Quinn shakes his head, disoriented as the healing potion finishes taking effect. "Ugh.. I'm really not liking this heat today..."
+
+"Agreed, we shouldn't stay too much longer, else we find its companions."
+
+<div class="oracle">
+**Q:** Are the other two bandits present?
+**A:** Yes
+</div>
+
+Satisfied that the two other bandits from the night before are present, the three make their way back towards the road and continue northward. "I think its implied at this point you can come with us, assuming you still want to." Quinn says to Malvan. "Fair warning, its going to be more of what just happened."
+
+"Understood, but that doesn't change anything - I mean, if I'm to be sincere to my word. Besides, I seem to be coming out of these scraps better than either of you." he responds in a light-hearted jest.
+
+The three reach the edge of the forest as the sun begins to set, making use of Malvan's knowledge to wash off the heat and refill their waterskins. "Know of any good spots to camp, preferably unnoticed?"
+
+<div class="oracle">
+**Q:** Does Malvan's knowledge help in setting up camp?
+**A:** Yes
+</div>
+
+Malvan nods and leads the other two off the road a bit as Quinn works to mask their trail. About an hour later, Malvan signals that they've arrived and the three fan out, searching for any issues before returning to set up camp. Leshanna leaves to grab some timber as Malvan and Quinn dig two holes for the subdued fire. The hot air sticks around, even as the sun sets, and Malvan gets to know Leshanna and Quinn more.
+
+"So, are you just adventurers for hire or is there something more?"
+
+"We're actually with the Delver's of Zaban on a mission to verify rumors of goblin raiders in the forest. Supposedly they're making camp at an abandoned monastery a few more days worth of travel into the forest."
+
+"Ah, I've only heard of the Delver's in passing, what is it you actually do?"
+
+Quinn looks to Leshanna, "That's a great question I don't have the words for.."
+
+"In a simple sense, Quinn is an adventurer for hire and he assists me on missions given by the order. I am a Seeker, a devout follower of Zaban, and its my mission to find knowledge for the order. In this case, the answer to the rumors is the knowledge I seek, as well as information about this monastery, as we don't have any on it."
+
+"I see... And what does it take to join this order? I'm just exploring my options as I don''t want to wear out my welcome by being a lost puppy for too long.."
+
+"Its been so long.. but I think if memory serves, Leshanna ran into me while on a mission and requested my services?" Quinn asks looking to Leshanna.
+
+"Its only been 3 years, have you already forgotten? But yes, that's the gist. And then you came with me to report the conclusion and Tannyll asked if you'd be interested in continuing to work for the order." 
+
+"Well, to be fair, its been a rather busy three years..." Quinn says smiling. "Well, as the new guy, I hope you don't mind second watch.."
+
+"Fair is fair, I typically wake up rather easily anyways."
+
+"Good because I don't, which is why I take last watch."
+
+<div class="oracle">
+**Q:** Is there an encounter tonight?
+**A:** No
+</div>
+
+The evening passes quietly into morning as the three rotate between watching and sleeping.
 

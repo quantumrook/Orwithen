@@ -1,0 +1,2 @@
+- Quick Reference: https://homebrewery.naturalcrit.com/edit/JXimjlSrRrfX
+- The story so far: https://homebrewery.naturalcrit.com/edit/-fBWqXDhUYhr
