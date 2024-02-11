@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "aff101a6a8ef4385",
+    "type": "split",
+    "children": [
+      {
+        "id": "178447af413607bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e1c671b277cf75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d319561d8b74c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d249ad444a47c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a52efaf35ba74b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3373a43ca284885b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f569d9ce6b74058a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f65a46e2c244a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70dbccdc2f0bd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93db6f63db85faab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "34e1c671b277cf75",
+  "lastOpenFiles": [
+    "PCs/QuickReference.pdf",
+    "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
+    "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.pdf",
+    "Locations/Bracewater Headland/Chuddli Forest/Abandonded Monastery/The Old Abandoned Monastery 04 (29 x 29).png"
+  ]
+}

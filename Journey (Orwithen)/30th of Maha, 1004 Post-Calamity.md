@@ -1,8 +1,8 @@
-## Summary
+### Summary
 
 The party run into [[Megara]] who teleports them half-a-day's journey south of their destination.
 
-## Southern Outskirts, Chuddli Forest
+### Southern Outskirts, Chuddli Forest
 
 <div class="oracle">
 - Weather Check: Spring, 74 - Clear Skies
@@ -143,7 +143,7 @@ Leshanna sighs, "Tannyll is not going to like this, but then again, we now know 
 
 > Group gains 400 xp.
 
-## Deep, Chuddli Forest
+### Deep, Chuddli Forest
 
 The three quickly fan out and search their surroundings for a few moments before regrouping. "Well, that's quite handy." Quinn says in an upbeat tone.
 
@@ -254,6 +254,8 @@ Finding none, he does notice that the door appears to be stuck and unlocked. He 
 </div>
 
 With just the right amount of leverage, he pushes the door past the uneven floor and it swings wide open to an empty looking room. Disturbingly, candles are set up about the perimeter, offering a shadowy illumination and many questions. The three carefully funnel inside, gently propping the door closed behind them.
+
+### Abandoned Monastery
 
 <div class="oracle">
 **Quinn** *Dungeoneering*: 23. :: Expert Knowledge.
@@ -373,3 +375,74 @@ The group, surprisingly unscathed, takes a moment to catch their breath and calm
 
 Quinn gets to the door and checks it for traps, noting that its not stuck and also not locked. He looks back to the other three before swinging it open to another empty room. Taking a moment to scan the room, Quinn sees nothing of concern and waves the other two in. Leshanna lets out a low whistle and points to the left wall. Quinn has to walk up closer to see it and reads "Death is the only exit." Seeing a door to the north, they assume it leads back to the treasure room and focus on the wooden portcullis to the west. Peeking through, they see a stone sphere sitting in the middle of the room and a strong stench assails their noses. Leaning back just in time, a zombified hand in a black robe swipes at Quinn's face.
 
+The  three back up startled as five zombies in various states of decay rush the portcullis, attempting to swipe at their prey. They realize the issue of the closed portcullis will soon be rectified as it starts splintering under the barrage of the zombies. 
+
+####  Turn  1
+ - **Rot 3**  passes.
+ - **Q** *deft strike*  **Rot 2**
+	 - Crit. **Rot 2**  dies.
+ - **Malvan**  *twin strike*
+	 - **R1** hit. 7 dmg.
+	 - **R4** hit. 7 dmg.
+ - **R1** attacks **P**
+	 - hit. 6 dmg.
+ - **R5**  attacks **P** 
+	 - hit. 6 dmg.
+ -  **Rot 4**  passes.
+ - **L**  *rebuke undead* 
+	 - **R1** crit.
+	 - **R3** hit. 9 dmg.
+	 - **R4** miss.
+	 - **R5** miss.
+
+####  Turn  2
+ - **Rot 3**  attacks **P**.
+	 - hit. 6 dmg.
+ - **Q** *deft strike*  **Rot 5**
+	 - Crit. **Rot 5**  dies.
+ - **Q** action point: *deft strike* **R4**.
+	 - hit. 7 dmg.
+ - **Malvan**  *twin strike*
+	 - **R3** miss.
+	 - **R4** hit. 11 dmg.
+- **Malvan**  action point:  *twin strike*
+	- **R3** hit. 7 dmg.
+	- **R4** hit. 7 dmg.
+-  **Rot 4**  attacks **P**.
+	 - Miss.
+- **L**  *avenging  light*
+	 - **R4** hit. 12 dmg.
+
+####  Turn  3
+ - **Rot 3**  attacks **P**.
+	 - Miss.
+ - **Q** *deft strike*  **Rot 4**
+	 - hit. 8 dmg.
+ - **Malvan**  *twin strike*
+	 - **R4** hit. 11 dmg
+	 - **R3** hit. 7 dmg.
+ - **L**  *avenging  light*
+	 - **R3** hit. 12 dmg.
+
+####  Turn  4
+ - **Rot 3**  attacks **P**.
+	 - Crit.
+ - **Q** *deft strike*  **Rot 4**
+	 - Miss.
+ - **Malvan**  *twin strike* **R3**:
+	 - miss
+	 - hit. 11 dmg.
+ - **L**  *avenging  light*
+	 - **R3** hit. 12 dmg.
+
+Combat ends.
+
+> Party gains  875 exp.
+
+With  the final blow just as the last zombie breaks down the  portcullis, the  party  once again catches their breath before pressing onwards. Examining the robes of the corpses, the party finds similar iconography to that decorating the outside of the monastery: golden hands reaching out to grab something. Quinn carefully takes one of the robes and stuffs it in his pack, before the party turns their attention to the stone orb on a pedestal, centered in the room.
+
+"Look, even more,"  Leshanna says pointing to the floor and it takes the human a moment for his eyes to adjust to see dust covered golden lines in various designs about the floor. While Leshanna sketchs them out, an idea strikes Quinn and he lights a sun rod, holding it high above the stone orb. 
+
+> Diary, Opening, Celebration
+
+The gold lines are in a circular pattern, divided up into seven sections, with interconnecting straight lines. Upon looking even closer, there are faint silver lines and chalk marks painting a seven different pictures; or at least, that's what Quinn assumes, since only three sections remain undisturbed. One is of a map of the Bracewater Headlands
