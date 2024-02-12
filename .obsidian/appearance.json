@@ -2,6 +2,5 @@
   "baseFontSize": 16,
   "translucency": true,
   "cssTheme": "Minimal",
-  "theme": "moonstone",
-  "accentColor": ""
+  "theme": "moonstone"
 }

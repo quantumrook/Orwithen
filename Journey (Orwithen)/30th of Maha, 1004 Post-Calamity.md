@@ -445,4 +445,198 @@ With  the final blow just as the last zombie breaks down the  portcullis, the  p
 
 > Diary, Opening, Celebration
 
-The gold lines are in a circular pattern, divided up into seven sections, with interconnecting straight lines. Upon looking even closer, there are faint silver lines and chalk marks painting a seven different pictures; or at least, that's what Quinn assumes, since only three sections remain undisturbed. One is of a map of the Bracewater Headlands
+The gold lines are in a circular pattern, divided up into seven sections, with interconnecting straight lines. Upon looking even closer, there are faint silver lines and chalk marks painting a seven different pictures; or at least, that's what Quinn assumes, since only three sections remain undisturbed. One is of a map of the Bracewater Headlands with a location in the Bade Desert marked with a star. Another is of a figure being struck down before standing tall, and the last is a series of runes in a language unrecognized by anyone in the group.
+
+Leshanna finishes making her copy before joining the two at the orb, "I don't see any obvious traps," Quinn says looking to Leshanna. She concentrates and reaches out a hand to the orb before pulling back.
+
+"There's definitely an enchantment going on here, but I'm not sure I can dispel it."
+
+<div class="oracle">
+**Q:** :: Are the zombies the result of the enchantment?
+**A:** :: Yes.
+
+**Q:** :: Is it still tied to something else here in the monastery?
+**A:** :: Yes.
+</div>
+
+Quinn looks around, "well, its not going anywhere, lets finish exploring and then come back to this." The other two nod and the three move to the northern door. Once again, Quinn finds no traps, and notes the door is unlocked but stuck. He tries to move it without first bracing himself, and his feet slide out from underneath him due tho the chalk writing they've been walking on. He catches himself, wiping his boots off before trying again. Properly bracing himself this time, he lifts and then pushes the door open, revealing another dimly lit room.
+
+The three enter and immediately are drawn to the well in the southeast corner of the room. What was once presumably clean drinking water is now an oily black substance threatening to flow out into the room. Carefully backing away, they scan around and see a series of demonic faces carved into the western wall.
+
+<div class="oracle">
+**Q:** :: Are the demons related to the previous room?
+**A:** :: Yes and: "Chase, Question, Possession"
+</div>
+
+The mural is done using the same chalk and shows people being chased by the demons and being possessed before being brought in front of a figure. Leshanna doesn't detect any magic enchantment here and Quinn finishes checking the room - again, finding no traps. The other two stand watch as Leshanna copies the mural down as well, "I'm starting to run low on parchment and ink, I hope there's not too much more here..." she says. Satisfied, the three push on to the only other door in the room, to the northeast again. This time, the door moves freely and Quinn quickly halts the party, noting char marks on the backside.
+
+He takes a moment to scan the hallway before seeing the pressure plate in front of him. Bending down, he begins to carefully disarm the trap while the other two double check the other room for any missed information. After a few minutes he signals all clear and they resume exploring the hallway until they come upon a stair case leading down.
+
+### Abandoned Monastery, Basement
+
+As the three follow the long staircase down, the cool air gives way to a very uncomfortable warm and the mystical candles stop about halfway, causing Quinn to rely on his sun rod. Leshanna pushes ahead to see what she can with her darkvision as the rough masonwork gives way to rough earth, and the three enter what appears to be a cavern structure.
+
+The party comes to a sudden stop as they hear the sounds of skittering up ahead. Quinn looks to Leshanna and then Malvan, both shaking their heads as if to say they didn't see anything.
+
+#### Surprise Round
+- **Quasit** *bites* **Malvan**
+	- Hit. 11 dmg.
+- **Quasit** *Evil Temptation* **Malvan**
+	- Fail
+- **Leshanna** *Thunder of Judgment* **Quasit**
+	- Hit. 10 lightning dmg.
+	- Miss.
+	- Miss.
+
+#### Turn 1
+ - **Quinn** *Deft strike* **Quasit**
+	- Hit. 8 dmg.
+- **Malvan** *Hunter's Bear Trap* **Quasit**
+	- Hit. 15 dmg.
+	- *Barkskin*
+ - **Quasit** 
+	 - takes 5 damage.
+	 - *bites* **Quinn**
+		 - Hit. 11 dmg.
+	 - *Invisibility* (24 stealth to hide)
+- **Leshanna** passes.
+
+#### Turn 2
+ - **Quinn**, **Malvan** *delay*. 
+ - **Quasit** 
+	 - takes 5 damage.
+	 - *bites* **Leshanna**
+		 - Miss
+	 - *Evil Temptation* **Malvan**
+		- Pass. **Malvan** is dazed.
+- **Quinn** *sly flourish* **Quasit**
+	- Miss.
+- **Malvan** *dire radiance* **Quasit**
+	- Miss.
+- **Leshanna** *summon Angel of Fire*
+- **Angel** attacks **Quasit**
+	- Miss.
+
+#### Turn 3
+- **Quinn** sly flourish* **Quasit**
+	- Hit. 13 dmg.
+- **Malvan** *twin strike* **Quasit**
+	- Hit. 7 dmg.
+	- Miss.
+- **Quassit**
+ 	 - *bites* **Quinn**
+		 - Hit. 11 dmg.
+	 - *Invisibility* (16 Stealth)
+ - **Leshanna**, **Angel** delay.
+
+#### Turn 4
+- **Quinn** sly flourish* **Quasit**
+	- Hit. 13 dmg.
+
+Combat Ends.
+
+> Party gains 350 exp.
+
+"Did you see that? It kept just disappearing..." Malvan says shakily.
+
+"Invisibility," Leshanna says in elvish as she walks up to the corpse at Quinn's feet. "A minor demon. They are known to speak common, we should be cautious." She looks around as the air hangs heavy and silence echoes throughout the cavern.
+
+"Well, either we got em all, or any others are biding their time," Quinn responds in elvish as he bends down grabbing the head. "I wonder if our dryad friend would be interested in seeing this?" He looks to Leshanna.
+
+"She might, it would threaten the safety of the glade..." she says stepping back, "but I'm not carrying a demon head around." Quinn looks to Malvan who responds,
+
+"What, I'm already carrying evidence of goblins, evidence of demons is all you." Quinn sighs and fixes the head to the outside of his pack before the three then take turns watching as the third bandages up the bite marks from the demon. After a few moments, the party proceed to cautiously explore the rest of the cavern, discovering a simple chest in the back corner. Quinn checks for traps and Leshanna enchantments, but neither find anything.
+
+The rogue tries the lock and sighs as it won't budge. He pulls out his tools and gets to work, "You know, this would probably be a good time for them to attack, so be ready." A few suspense moments pass before the relative silence is broken by the locking mechanism snapping out of place and the chest pops open. Inside, the three find a variety of gems admist several arcane scrolls and alchemical potions. Leshanna quickly packs them away before saying, "I guess that just leaves the goblin treasure and the orb. I'd rather quit this place than spend the night in it, especially down here."
+
+### Abandoned Monastery, Ground Floor
+
+The other two nod and the party make their way back up the stairs and Quinn resets the fire trap before locking the door behind them. Out of curiosity, Quinn scans the demon mural for the Quasit and points it out to the others. "I hope we don't run into any others on this wall, that small guy bit pretty hard.."
+
+Quinn's half-joke is met with silence as all three ponder the implication of the mural again before moving back to the room with the orb. They are immediately mesmerized by a glowing prismatic light that fills the room, emanating from the orb on the pedestal. "I think the demon might have been the caster of the enchantment," Leshanna says as she reaches out with her arcane senses again. "I still sense magic but its very different than what was here before..."
+
+"Good or Bad?"
+
+"I'm not completely sure. Definitely better than necrotic and dark energy though."
+
+"...Do we take it or leave it?" Malvan asks.
+
+Quinn sighs as he walks up to it, "Well, I get the sense it doesn't belong here, and we can't find any traps..." he gingerly reaches out to touch it and is filled with a warm rejuvenating energy. He takes a breath before quickly picking it up and the air grows still as the light from the orb dims a bit in his hand, but nothing obviously bad happens. Content, he adds it to his pack before the three make their way back to the treasure hoard and carefully sift through the piles, looking for anything of interest.
+
+<div class="oracle">
+- **Quinn** obtains *Bloodcut Leathers, Level 9 (+2)*
+- Party obtains *4500 gp*, 75 exp
+</div>
+
+"Well, if we hope to put significant distance between here and us before sunset, we best get going." Quinn says looking around, "kind of a shame that all of this loot has to be left behind."
+
+<div class="oracle">
+**Q:** :: Is Megara still scrying on the party?
+**A:** :: Yes.
+</div>
+
+As the three step outside of the monastery, Malvan feels his back run cold and shivers. In elven, he asks the other two, "Do you feel like you're being watched?" The other two exchange glances before looking at Malvan.
+
+"I thought it was my gut being uneasy by our surroundings," Quinn replies.
+
+"Same, but now that you mention it... do you think another demon is hiding nearby?" Leshanna asks.
+
+"I only felt it now that we're outside the monastery, and its different from the cavern..."
+
+"Hmm.. perhaps we're being scryed on, but by whom?"
+
+"Your boss?"
+
+"She normally doesn't have the time for such things and waits until we're close to running late."
+
+"Some more of the robed figures? I mean, it does look very cult-y in there..."
+
+"But how would they know when we first arrived?"
+
+"Maybe Megara's spell alerted them somehow?"
+
+"What about Megara?" Quinn chimes in, "maybe she's keeping the tree ready for another teleport. She did say that she would be watching."
+
+"True. Let us head to the tree, if nothing else, it'll get us started on our way out of here." The other two nod at Leshanna's suggestion and the three begin retracing their steps towards the tree that brought them here. As the three approach the tree, they see the bark fold in on itself, creating a portal. Moving quickly, the three approach and touch the bark in unison and are ripped out of the decayed forest.
+
+### Southern Outskirts, Chuddli Forest
+
+Emerging from the portal, the three are brough back into the lush green southern region of the forest and see Megara standing by in her radiant brilliance. "Did you find what you were looking for?" she asks.
+
+Taking a quick moment to shake off the effects of the teleportation, Quinn replies, "Yes and more. Unfortunately more." Malvan draws the set of ears from his bag as if to show proof of goblin presence.
+
+"I wasn't sure what kind of proof would satisfy you, apologies for the gruesome nature, I normally don't do this." He says, offering them to her. She shakes her head no.
+
+"We also found a Quasit in the depths of the monastery," Leshanna gestures towards Quinn, who pulls the tiny gruesome demonic head from his pack, "I assumed you'd be interested to know its foul presence was taken care of." Megara nods her head in thanks. Setting the head down, Quinn reaches deeper into his bag to pull out the orb.
+
+"We also found this," he says, holding up the orb for Megara to see.
+
+She gasps and takes a step forward before halting, "..an orb of invasive fortune, and a powerful one at that... You said you found this in that cursed place?"
+
+Leshanna steps forward, an idea springing to mind, "And what would you trade for this knowledge?"
+
+Megara's visage sours before smiling, "Well played fae, well played indeed. What would you desire?"
+
+Leshanna contemplates for a moment, thinking about her detailed sketches, "Answers and..." looking towards Quinn and Malvan, another idea springs to mind, "One more teleport when we're done."
+
+Megara raises an eyebrow and thinks, the air hanging heavy for a minute. "Very well, what do you know? and what questions do you have?"
+
+Leshanna explains where they found the orb, its appearance before and after the encounter with the Quasit, and shows the drawings to Megara. After a long moment Megara explains that the monastery was built a few hundred years ago in the name of a forgotten god that she is too young to remember. She is unable to translate the arcane writing copied from the floor, but urges caution due to the demon's presence. "Now that it has been removed, the glade should recover in time. I thank you deeply for this act."
+
+<div class="oracle">
+> **Megara** weariness decreases. (+2)
+</div>
+
+Quinn getting an idea, "Now that we've proven our intent is not to harm the grove, might we hold hands against these demons if they threaten the glade again?"
+
+Megara takes a moment to consider the proposition, "Your words are true, and much of the forest is still clouded with this same energy. What do you seek in return for helping the glade?"
+
+"For now, safe passage back into the forest. That is, if we are to help in the future, we would need to seek you out again."
+
+"Very well. You three may return to the glade at your leisure. Mark the symbol of the monastery in your minds well, this won't be the only time you see it."
+
+Satisfied, the three pack their belongings back up before readying to leave. Megara once again touches a nearby tree, and the bark folds in on itself. The party bows respectfully before gingerly touching the tree and leaving the glade. Once their vision returns to normal, they find themselves at the tree just north of the lake with the sun well past its zenith.
+
+### North of Cadun, Unnamed Lake
+
+"Well, shall we put some distance between us and what lies over the hill and call it a night?" Quinn asks, recalling the scattered bodies from the two engagements from the previous day. The other two nod and the party sets off to the southeast, cutting across the road and towards the edge of the lake. Keeping some distance from the road, they travel for about an hour before settling down to make camp and get some much needed rest.

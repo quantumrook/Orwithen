@@ -9,18 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
+            "file": "Organizations/Delver's of Zaban.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "029ca822244ee3ca",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PCs/QuickReference.pdf"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
+                "file": "Organizations/Delver's of Zaban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +88,15 @@
   },
   "active": "d9ae1c4c0777a937",
   "lastOpenFiles": [
+    "Organizations/Delver's of Zaban.md",
+    "Organizations/Hands of Artin.md",
+    "Agenda.md",
+    "Journey (Orwithen)/31st of Maha, 1004 Post-Calamity.md",
+    "Locations/Orwithen.md",
+    "Locations/Map of Orwithen.png",
+    "Organizations/Pantheon/Maha.md",
     "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.md",
-    "PCs/QuickReference.pdf",
-    "Journey (Orwithen)/Stylized.md",
-    "Journey (Orwithen)/30th of Maha, 1004 Post-Calamity.pdf",
-    "Resources/homebrewery/links.md",
-    "NPCs/Megara.md",
-    "Locations/Bracewater Headland/Chuddli Forest.md",
-    "Journey (Orwithen)/28th of Maha, 1004 Post-Calamity.md",
-    "Resources/homebrewery/Quick Reference.md",
-    "Resources/Mechanics/Acrobatics.md"
+    "Organizations/Pantheon/Reuliel.md",
+    "Organizations/Pantheon/Hoeliel.md"
   ]
 }
